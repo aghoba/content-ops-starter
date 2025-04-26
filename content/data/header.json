@@ -10,7 +10,7 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "width"
+        "elementId": "width=100"
     },
     "primaryLinks": [
         {
